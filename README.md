@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on world matter
-- 🌱 I’m currently learning cloud
+- 🌱 I’m currently learning cloud and AI
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with teleport project
 - 💬 Ask me about anything or nothing
